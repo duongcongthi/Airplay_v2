@@ -6,7 +6,7 @@
 	"kLoading": true,
 	"kIsShowAlertPayment": false,
 	"kMirrorAppId": "632105",
-	"kIsShowCloseButton": false,
+	"kIsShowCloseButton": true,
 	"offerMonth":"$14.99/Month",
 	"offerYear":"$39.99$/Year (3 Days Free)",
 	"offerLifetime": "$34.99 for Lifetime",

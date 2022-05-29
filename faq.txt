@@ -1,0 +1,145 @@
+1) How do I connect to a TV device?
+You just need to connect your iDevice and TV device to the same wifi network, then open the app, choose your favorite app.
+
+2) What types of devices are supported by the application?
+The application supports all Smart TVs that support AirPlay
+
+AOC Roku TV
+ATVIO Roku TV
+Element Roku TV (Series 400, Series 450)
+Hisense Roku TV (R6, R7 & R8 Series)
+Hitachi Roku TV
+InFocus Roku TV
+JVC Roku TV (Select, Premier and Elite Series)
+LG OLED (2018, 2019, 2020)*
+LG SuperUHD SK 9, 8 series (2018)
+LG UHD UK 62 series or above, UK 7 series (2018)
+LG NanoCell NANO 9, 8 series (2020)*
+LG UHD UN 8 series (2020)*
+LG UHD UN 71 series or above (2020)*
+LG NanoCell SM 9, 8 series (2019)
+LG UHD UM 7, 6 series (2019)
+Magnavox Roku TV (55MV379R/F7, 65MV379F/F7)
+onn. Roku TV (10012588, 100024699, 100012584, 100005396, 100005397, 100012587, 100012585, 100012586)
+Philco Roku TV
+Philips Roku TV (4000 Series)
+RCA Roku TV (RTRQ6522-US, RTRU5027-US, RTRU5527-W, RTRU6527-US, RTRQ5522-US, RTRU4927-US)
+Roku® Express (2017, 2019)
+Roku® Express+ (2017, 2019)
+Roku® Premiere
+Roku® Premiere+
+Roku® Streambar™
+Roku® Streambar Pro™
+Roku® Streaming Stick™
+Roku® Streaming Stick®+
+Roku® Streaming Stick®+ Headphone Edition
+Roku® Ultra (2019, 2020)
+Roku® Ultra LT
+Roku® 3 (2013)
+Samsung FHD/HD 4, 5 Series (2018)
+Samsung QLED 4K Q6, Q7, Q8, Q9 Series (2018, 2019, 2020)
+Samsung QLED 8K Q9 Series (2019, 2020)
+Samsung The Frame Series (2018, 2019, 2020)
+Samsung Serif Series (2019, 2020)
+Samsung UHD 6, 7, 8 Series (2018, 2019, 2020)
+Sanyo Roku TV (FW50R79FC, FW55R70F, FW55R79FC, FW65R70F, FW65R79FC)
+Sharp Roku TV (2T-C45CF2UR, 4T-C60CL2UR)
+Sony A8H Series (2020)
+Sony A9F Series (2018)
+Sony A9G Series (2019)
+Sony A9S Series (2020)
+Sony X85G Series (2019 55”, 65”, 75”, and 85” models)
+Sony X80H Series (2020)
+Sony X85H Series (2020)
+Sony X95G Series (2019)
+Sony X90H Series (2020)
+Sony X95H Series (2020)
+Sony X80J Series (2021)
+Sony X85J Series (2021)
+Sony X90J Series (2021)
+Sony X91J Series (2021)
+Sony X95J Series (2021)
+Sony Z9F Series (2018)
+Sony Z9G Series (2019)
+Sony Z8H Series (2020)
+Sony Z9J Series (2021)
+TCL Roku TV (4-Series, 5-Series, 6-Series & 8-Series)
+VIZIO OLED (2020)*
+VIZIO P-Series Quantum X (2019, 2020)*
+VIZIO P-Series Quantum (2018, 2019, 2020)*
+VIZIO P-Series (2016, 2017, 2018)
+VIZIO M-Series Quantum (2019, 2020)*
+VIZIO M-Series (2016, 2017, 2018)
+VIZIO E-Series (2016, 2017, and 2018 UHD models)
+VIZIO V-Series (2019, 2020)*
+VIZIO D-Series (2018, 2019)
+Westinghouse Roku TV (UX Series, UT Series)
+3) Does the app offer trial mode or not?
+The app can be downloaded for free from the AppStore, but to use it you need to upgrade to the Premium version (Onetime or Subscription). We offer a 3-day trial period before charging when you sign up for each year. Please check if your TV is compatible with the app during the free 3-day trial. If your TV does not support AirPlay, please cancel your subscription before the 3-day trial period to not be automatically charged from your account. How to cancel the trial subscription please see details in 13).
+
+4) Why is my TV device not appearing in the AirPlay menu?
+If you do not see your TV device when trying to use AirPlay to view content on your TV, you should check the following:
+1) Are your TV device and Apple device connected to the same wireless network? You can view the network configuration of your devices in the settings menu. On your Roku device, go to Settings > Network > About
+2) Has AirPlay been turned off on your TV device? Go to Settings > Apple AirPlay and HomeKit and make sure AirPlay is set to On on your TV.
+5) Why does the app that wants to mirror appear "Recording is not supported by this App" warning?
+This app doesn't allow screen mirroring from your device for some reason like copyright, Please use web version or from another app that allows screen mirroring.
+
+6) How to mirror video to TV
+There are 2 ways: Use the [Cast Video] feature or the [Screen Mirroring] feature.
+
+With Cast Video:
+
+- Click Cast Video from the Home screen of the application ->
+- Select your device and press Connect ->
+- After the connection is complete ->
+- Press the (+) sign in the lower right corner of the screen and select cast video ->
+- Select your video to cast ->
+- It may take a long time if your video is too long. ->
+- After the video is processed, it will automatically play on your TV.
+With Screen Mirroring:
+
+- Select [Screen Mirroring] from the Home screen of the app ->
+7) How can I mirror Full HD content with WEB CAST function?
+The default TV Cast for AirPlay app will take the video playing on your iDevice to play on your TV. For example you want to mirror video content in full HD quality from youtube, you need to select 1080 quality mode.
+
+8) Some apps won’t Screen Mirror, how is that possible?
+Some apps block Screen Mirroring. This means that application developers can choose themselves if they want to block Screen Mirroring. For instance, Netflix, Disney+ and Apple TV have decided to block this.
+There is a simple test that you can do to see if the app that you want to mirror has blocked Screen Mirroring:
+
+Open that particular app and slide up Control Center on your iPhone/iPad. Then, click on Screen Recording and start recording the screen to your Camera Roll. Watch the app that you want to mirror and at some point stop the screen recording. Then go to your Photos app and watch the video that was recorded. If the recorded video shows the app you want to mirror, it works fine. If the video is empty, then the app you want to mirror does not allow Screen Mirroring.
+
+9) If screen mirroring or streaming isn't working on your AirPlay-compatible device
+Try these steps first After each step, see if you still need help.
+
+1) Make sure that your AirPlay-compatible devices are turned on and near each other.
+2) Check that the devices are updated to the latest software and are on the same Wi-Fi network.
+3) Restart the devices that you want to use with AirPlay or screen mirroring.
+If you're prompted to enter a password, you might have restrictions turned on, or you might need to adjust your AirPlay password settings.
+10) If you're asked to enter an AirPlay password on Apple TV
+The first time you use AirPlay with your Apple TV, you'll see an onscreen password. Enter the password into your device to stream content to Apple TV. Or if you're using Conference Room Display, a message will always appear on the display with AirPlay connection instructions and wireless network details.
+
+11) Where is the AirPlay code on my TV?
+On the TV remote: Home button > Home Dashboard > Airplay > Airplay & Homekit Settings > Require Code > Use Password Instead. If you’ve set up a previous password, it gives you the password (or a new one)
+
+12) How do I fix AirPlay problems?
+Follow these troubleshooting tips to fix AirPlay problems with your Apple devices:
+
+・Check your Apple device and TV device are using the same Wi-Fi network.
+・Make sure your TV or AirPlay device is powered on and awake.
+・Turn off and on Bluetooth on your iOS device. Do this from Control Center or go to Settings > General > Bluetooth.
+・Turn off and on Wi-Fi on your iOS device. Do this from Control Center or go to Settings > General > Wi-Fi.
+・Check your Wi-Fi router’s firmware is up to date.
+・Update your TV to the latest software by going to Settings > General > Update Software.
+・Update your iOS device to the latest software by going to Settings > General > Software Update.
+・Reboot your Wi-Fi router
+・Restart your AirPlay device or TV; you may need to disconnect power to do this.
+・Restart your iOS device; press and hold the Side button with either Volume button, then slide to power off.
+・Make sure there is only one device trying to stream at any time.
+・Turn off restrictions from Settings > Screen Time > Content & Privacy Restrictions.
+13) How to cancel a subscription on your iPhone, iPad, or iPod touch
+1. Open the Settings app.
+2. Tap your name.
+3. Tap Subscriptions.
+(iPhone showing the Subscriptions menu option in Settings)
+4. Tap the subscription that you want to manage.
+5. Tap Cancel Subscription. If you don’t see Cancel, the subscription is already canceled and won't renew.
